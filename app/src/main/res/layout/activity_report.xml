@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ReportActivity">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicine Details Report:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            >
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Medicine:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/textViewMedicineName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicine Name:"
+            android:textSize="24sp"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Medicine Dosage:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/textViewMedicineDosage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicine Dosage:"
+            android:textSize="24sp"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Medicine Manufacturer:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold">
+
+        </TextView>
+        <TextView
+            android:id="@+id/textViewMedicineManu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicine Manufacturer:"
+            android:textSize="24sp"
+             />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Medicine Quantity:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold">
+
+        </TextView>
+        <TextView
+            android:id="@+id/textViewMedicineQuantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicine Quantity:"
+            android:textSize="24sp"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Medicine Price Per Unit:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold">
+
+        </TextView>
+        <TextView
+            android:id="@+id/textViewMedicinePrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicine Price:"
+            android:textSize="24sp"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6. Medicine Manufacture Date:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold">
+
+        </TextView>
+        <TextView
+            android:id="@+id/textViewMedicineManuDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Manufacture Date:"
+            android:textSize="24sp"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. Medicine Expiry Date:"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold">
+
+        </TextView>
+        <TextView
+            android:id="@+id/textViewMedicineExDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Expiery Date:"
+            android:textSize="24sp"
+             />
+
+
+
+</LinearLayout>
