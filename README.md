@@ -12,12 +12,6 @@ The main goal of this project is to create a mobile app that addresses these cha
 4. Digital Medication Journal: To facilitate better healthcare management, users can maintain a digital record of their family's medication history.
 5. Medicine alternatives and Doctor Approvals: When necessary, the application offers a straightforward mechanism for obtaining doctor approvals, adding an extra layer of assurance to the healthcare decision-making process.
 
-- Record and categorize expenses and income
-- Set up bill reminders and receive notifications
-- Track loans and payments
-- View reports and analyze spending patterns
-- Secure login and password protection
-
 ## Technologies
 
 - [Java]([https://kotlinlang.org/](https://www.java.com/en/)
