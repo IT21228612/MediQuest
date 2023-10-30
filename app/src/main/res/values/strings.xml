@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PharmacyApplication</string>
+    <string name="medicineName">Medicine Name</string>
+    <string name="medName">Medicine Name</string>
+    <string name="medDosage">Dosage Strength (mg/ml)</string>
+    <string name="medManufacturer">Manufacturer Information</string>
+    <string name="medQuentity">Package Quentity</string>
+    <string name="medPrice">Price per Unit (LKR)</string>
+    <string name="medManuDate">Manufacture Date</string>
+    <string name="medExpiryDate">Expiry Date</string>
+    <string name="pharmacistPhone">Full Name</string>
+    <string name="pharmacistPhonee">Contact Number</string>
+    <string name="pharmacistEmail">E-mail</string>
+    <string name="pharmacisName">Full Name</string>
+    <string name="pharmacistUsername">Prefered Username</string>
+    <string name="pharmacistQualification">Qualification (ex:course/institute)</string>
+    <string name="pharmacistLicenseNumber">License Number</string>
+    <string name="pharmacistPassword">Password (ex: Abcd123@)</string>
+    <string name="pharmacyName">Name</string>
+    <string name="pharmacyAddress">Address (Location)</string>
+    <string name="pharmacyWeekday">Weekdays</string>
+    <string name="pharmacyNumber">Contact Number</string>
+    <string name="pharmacyOpenFrom">08.00 AM</string>
+    <string name="pharmacyOpenTo">22.00PM</string>
+</resources>
