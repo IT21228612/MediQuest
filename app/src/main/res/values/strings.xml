@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">DigitalJournal</string>
-    <string name="FullName">Full Name</string>
-    <string name="Username">Preferred Username</string>
-    <string name="Email">Email</string>
-    <string name="Pass">Password</string>
-
-</resources>
