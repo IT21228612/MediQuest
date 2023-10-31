@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediQuest</string>
+
+    <array name="sex">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+</resources>

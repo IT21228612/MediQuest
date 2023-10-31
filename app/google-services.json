@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "643155713215",
+    "firebase_url": "https://doctor-5bc5e-default-rtdb.firebaseio.com",
+    "project_id": "doctor-5bc5e",
+    "storage_bucket": "doctor-5bc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643155713215:android:1e66e0c3c62b8a759cba0a",
+        "android_client_info": {
+          "package_name": "com.example.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4H3IOeVpHjlTLTs48y36VYqDrQUfG9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643155713215:android:ba3d182177c771849cba0a",
+        "android_client_info": {
+          "package_name": "com.example.doctor2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4H3IOeVpHjlTLTs48y36VYqDrQUfG9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
